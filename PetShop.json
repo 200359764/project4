@@ -1,0 +1,44 @@
+{
+	"websiteName": "Kim's Pet Shop",
+	"location" : "Barrie, Canada",
+	"establishedDate": 2019,
+	"weirdProducts": [
+		{
+			"productName": "Ciao Churu",
+			"price": 10.99,
+			"description": "This is cat's snack named Churu.",
+			"contents": [
+				"Tuna",
+				"Protein",
+				"Vitamin E"
+			],
+			"images": "ciaochuru.jpg"
+		},
+
+		{
+			"productName": "Whiskas",
+			"price": 229.99,
+			"description": "This is cat's food made by chicken and turkey.",
+			"contents": [
+				"Chicken",
+				"Turkey",
+				"Food for cat"
+			],
+			"images": "whiskas.jpg"
+		},
+
+		{
+			"productName": "Scratcher",
+			"price": 143.99,
+			"description": "This is scratcher for cats to scratch themselves.",
+			"contents": [
+				"Toy",
+				"Scratch",
+				"Play"
+			],
+			"images": "scratcher.jpg"
+		}
+
+	]
+
+}
